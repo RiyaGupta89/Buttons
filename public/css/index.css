@@ -1,0 +1,59 @@
+.my-btn{
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.my-btn-0{
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    background-color: #b22222;
+    color: #fff;
+    border: 1px solid goldenrod;
+   
+}
+
+
+.my-btn-2{
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    background-color: #43ab92;
+    color: #fff;
+    border: none;
+    margin-top: 20px;
+    box-shadow: 2px 2px lightgrey;
+}
+
+.my-btn-3{
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    background-color: #45454d;
+    color: #fff;
+    border: none;
+    margin-top: 20px;
+    box-shadow: 4px 4px lightgrey;
+    border-radius: 5px;
+}
+
+a{
+    display: block;
+    width: 200px;
+    height: 25px;
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    background-color: #43ab92;
+    color: #fff;
+    border: none;
+    margin-top: 20px;
+    box-shadow: 4px 4px lightgrey;
+    border-radius: 5px;
+    text-align: center;
+    padding: 5px 0;
+}
